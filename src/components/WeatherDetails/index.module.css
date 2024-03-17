@@ -1,0 +1,29 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: #45a2ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+    width: 35%;
+}
+.header{
+    color: #45a2ff;
+    font-weight: bold;
+}
+
+.footer{
+    width: 50%;
+    align-content: center;
+    border-color: rgba(0, 0, 0, 0.175);
+}
+
+.littleFont{
+    font-size: 0.7rem;
+}
+
+.pointer{
+    cursor:pointer
+}

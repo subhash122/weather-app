@@ -1,0 +1,19 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: #45a2ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+    width: 35%;
+    height: 40%;
+}
+.header{
+    color: #45a2ff;
+    font-weight: bold;
+}
+.divider{
+    border-color: rgba(0, 0, 0, 0.175);
+}
